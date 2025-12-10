@@ -6,7 +6,7 @@ Here is a detailed, step-by-step guide with specific questions tailored to the a
 
 The dataset columns are:
 
-asin (Product ID)
+asin [(Product ID)]
 
 title (Product Name)
 
