@@ -1,4 +1,4 @@
-he Amazon Canada Products 2023 dataset contains product-level information like price, rating, and category, but lacks transactional sales data (order dates, quantities sold, customer IDs, and regions/provinces).
+In Amazon Canada Products 2023 dataset contains product-level information like price, rating, and category, but lacks transactional sales data (order dates, quantities sold, customer IDs, and regions/provinces).
 
 To address the lack of sales/customer data and still create a compelling dashboard, the project needs to shift from a Sales Performance Dashboard to a Product and Pricing Analytics Dashboard.
 
